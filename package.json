@@ -1,0 +1,9 @@
+{
+    "description": "a basic add-on", 
+    "license": "MIT", 
+    "author": "azu", 
+    "title": "press-this-for-wordpress.com", 
+    "version": "0.1", 
+    "id": "jid1-5ZwB72g3AbqLiw", 
+    "name": "press-this-for-wordpress"
+}
